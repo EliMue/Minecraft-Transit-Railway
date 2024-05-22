@@ -1,6 +1,6 @@
 # Minecraft Transit Railway 3.0
 
-_Minecraft Transit Railway_ is a [Minecraft mod](https://minecraft.gamepedia.com/Mods) based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds trains into the game along with other miscellaneous blocks and items. With this mod, it is possible to build a fully functional railway system in your world!
+_Minecraft Transit Railway_ is a [Minecraft mod](https://minecraft.wiki/w/Mods) based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds trains into the game along with other miscellaneous blocks and items. With this mod, it is possible to build a fully functional railway system in your world!
 
 [![Video Trailer](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/footer/video-preview.png)](https://www.youtube.com/watch?v=1cZfU7t4cAk)
 
@@ -8,13 +8,12 @@ Please report any issues or bugs that you find; that would be greatly appreciate
 
 ## Downloads and Installation
 
-Head over to the [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway) to download
+Head over to the [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway) or [Modrinth page](https://modrinth.com/mod/minecraft-transit-railway) to download
 the mod or to see the project information.
 
 ## Guide
 
-There is a [new wiki](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki) for the mod, right here on GitHub!
-Take a look.
+There is a [new wiki](https://wiki.minecrafttransitrailway.com/start) for the mod, take a look!
 
 ## Contributing
 
